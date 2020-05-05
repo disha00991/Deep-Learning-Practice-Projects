@@ -1,4 +1,4 @@
-####Data Science Learning Notes####
+####Deep Learning Course: Notes####
 
 Data Analysis is a key aspect of ML workflow
 
