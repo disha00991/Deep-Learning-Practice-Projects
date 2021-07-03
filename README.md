@@ -4,7 +4,7 @@ Data Analysis is a key aspect of ML workflow
 
 Classifier --> box of rules
 Learning Algo --> Procedure which:
-  1. Creates the rules
+  1. Creates all rules
   2. Finds Patterns(Eg:- If a fruit is heavier, it is more likely to be an apple)
 
 COLLECT --> TRAIN CLASSIFIER --> MAKE PREDICTIONS
